@@ -9,12 +9,12 @@
 			"path": "hub"
 		},
 		{
-			"name": "hub-proxy",
-			"path": "hub-proxy"
+			"name": "hub-connector",
+			"path": "hub-connector"
 		},
 		{
-			"name": "device-proxy",
-			"path": "device-proxy"
+			"name": "devices-connector",
+			"path": "devices-connector"
 		},
 		{
 			"name": "rgb-led-strip",

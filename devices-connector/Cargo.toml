@@ -1,5 +1,5 @@
 [package]
-name = "nest-link-hub-proxy"
+name = "nest-link-devices-connector"
 version = "0.1.0"
 edition = "2021"
 
