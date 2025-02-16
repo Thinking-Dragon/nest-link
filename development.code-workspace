@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"name": "data-model",
+			"path": "data-model"
+		},
+		{
+			"name": "hub",
+			"path": "hub"
+		},
+		{
+			"name": "hub-proxy",
+			"path": "hub-proxy"
+		},
+		{
+			"name": "device-proxy",
+			"path": "device-proxy"
+		},
+		{
+			"name": "rgb-led-strip",
+			"path": "devices/rgb-led-strip"
+		}
+	]
+}
